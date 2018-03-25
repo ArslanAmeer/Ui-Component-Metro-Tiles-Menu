@@ -4,7 +4,7 @@
 This Tile Menu can be used (as pe your need) as a sidebar drop down menu, responsive menu or a section.
 Icons are replaceable.
 
-![](assets/icons/metroDemo.png)
+![](assets/icons/metroDemo.gif)
 ----------------------------------------------------------------
 **TRY IT NOW**: [Metro Tiles Menu](https://arslanameer.github.io/Ui-Component-Metro-Tiles-Menu/)
 
